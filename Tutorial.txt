@@ -1,0 +1,9 @@
+Database : improvem_seminar
+Database user : improvem_seminar
+Database user password : b1}DjCk))6f)
+
+User Login
+-----------
+email : admin@admin.com
+password : password
+
